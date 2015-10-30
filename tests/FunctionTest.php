@@ -12,4 +12,6 @@ class FunctionTest extends TestCase
         $this->visit('/')
              ->see('Lumen.');
     }
+
+    //add nothing
 }
